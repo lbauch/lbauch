@@ -2,7 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=77c8f9&width=435&lines=Prazer%2C+meu+nome+%C3%A9+Lucas+Bauchspiess;" alt="Typing SVG" /></a>
 </div>
     
-<p align="left">Atualmente trabalhando no setor de BPI na empresa Solar Vale;<br>Estudando Bacharelado de Ciências da Computação;</p>
+<p align="left">Atualmente trabalhando no setor de Business Intelligence na empresa Select Data;<br>Estudando Bacharelado de Ciências da Computação;</p>
         
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="40" alt="java logo"  />
