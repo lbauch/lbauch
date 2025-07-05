@@ -2,15 +2,12 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=77c8f9&width=435&lines=Prazer%2C+meu+nome+%C3%A9+Lucas+Bauchspiess;" alt="Typing SVG" /></a>
 </div>
     
-<p align="left">Atualmente trabalhando no setor de Business Intelligence na empresa Select Data;<br>Estudando Bacharelado de Ciências da Computação;</p>
+<p align="left">Atualmente trabalhando no setor de Business Intelligence na empresa Select Data;<br>Estudando Bacharelado de Ciências da Computação</p>
         
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="10" alt="java logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" height="10" alt="html5 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" height="10" alt="css3 logo"  />
-    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="10" alt="java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" height="10" alt="html5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" height="10" alt="css3" />
 </div>
     
 <div align="left">
