@@ -5,7 +5,7 @@
 <p align="left">Atualmente trabalhando no setor de Business Intelligence na empresa Select Data;<br>Estudando Bacharelado de Ciências da Computação</p>
         
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python.svg" title="Python" height="10px" alt="java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="10px" alt="java" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" height="10px" alt="html5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" height="10px" alt="css3" />
 </div>
