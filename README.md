@@ -5,11 +5,11 @@
 <p align="left">Atualmente trabalhando no setor de Business Intelligence na empresa Select Data;<br>Estudando Bacharelado de Ciências da Computação;</p>
         
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="40" alt="java logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="10" alt="java logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" height="40" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" height="10" alt="html5 logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" height="40" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" height="10" alt="css3 logo"  />
     <img width="12" />
 </div>
     
